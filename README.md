@@ -1,0 +1,2 @@
+# SyslogFileLogSender
+Syslog sender
